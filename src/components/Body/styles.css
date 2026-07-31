@@ -1,0 +1,20 @@
+#users {
+  padding: 25px 20px;
+  background-color: var(--color-bg-primary);
+}
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.fonte-cinza {
+  font-size: 24px;
+  color: var(--color-font-tertiary);
+  margin-bottom: 27px;
+}
+
+.home-title{
+  font-size: 48px;
+}

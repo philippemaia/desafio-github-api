@@ -17,6 +17,11 @@
   margin: 0 auto;
 }
 
+.content-title{
+    font-weight: 500;
+    font-size: 38px;
+}
+
 .input-user{
     width: 298px;
     height: 40px;
@@ -24,4 +29,7 @@
     margin-bottom: 24px;
     border-color: 1px solid var(--border-color-primary);
     border-radius: 4px;
+    padding: 17px 8px;
+    font-size: 16px;
+    color: var(--color-font-quaternary);
 }

@@ -1,4 +1,5 @@
 import Content from "../../../components/Content";
+import NotFound from "../../../components/NotFound";
 
 
 export default function Search(){
@@ -8,8 +9,11 @@ export default function Search(){
             <section>
                 <div className="container">
                     <div className="mt30 mb30">
-                        <Content />
-                    </div>                     
+                        <Content />                        
+                    </div>
+                    <div className="mt30 mb30">
+                        <NotFound />                     
+                    </div>
                 </div>
             </section>
         </main>
